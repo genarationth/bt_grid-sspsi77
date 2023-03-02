@@ -72,6 +72,180 @@
   </div>
   <!-- End Row01 -->
 
+  <!-- delcair Row02 -->
+  <div class="row">
+    
+    <!-- Add column01 -->
+    <div class="col-sm-12 col-md-4 col-lg-3">
+      <div class="card" style="width: 25rem; height: 30rem;">
+        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2017/11/09/21/41/cat-2934720__340.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+    <!-- End Column01 -->
+
+    <!-- Add column02 -->
+    <div class="col-sm-12 col-md-4 col-lg-3">
+      <div class="card" style="width: 25rem; height: 30rem;">
+        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2017/02/15/12/12/cat-2068462__340.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+    <!-- End Column02 -->
+
+    <!-- Add Column03 -->
+    <div class="col-sm-12 col-md-4 col-lg-3">
+      <div class="card" style="width: 25rem; height: 30rem;">
+        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2018/03/26/02/05/cat-3261420__340.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+    <!-- End Column03 -->
+    
+    <!-- Add column04 -->
+    <div class="col-sm-12 col-md-4 col-lg-3">
+      <div class="card" style="width: 25rem; height: 30rem;">
+        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2015/02/25/17/56/cat-649164__340.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+    <!-- End Column04 -->
+    
+  </div>
+  <!-- End Row02 -->
+
+   <!-- delcair Row03 -->
+   <div class="row">
+    
+    <!-- Add column01 -->
+    <div class="col-sm-12 col-md-4 col-lg-3">
+      <div class="card" style="width: 25rem; height: 30rem;">
+        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2019/10/17/14/52/kitten-4557097__340.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+    <!-- End Column01 -->
+
+    <!-- Add column02 -->
+    <div class="col-sm-12 col-md-4 col-lg-3">
+      <div class="card" style="width: 25rem; height: 30rem;">
+        <img class="card-img-top" src="https://plus.unsplash.com/premium_photo-1661508614319-b5e40d1143bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2F0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+    <!-- End Column02 -->
+
+    <!-- Add Column03 -->
+    <div class="col-sm-12 col-md-4 col-lg-3">
+      <div class="card" style="width: 25rem; height: 30rem;">
+        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256__340.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+    <!-- End Column03 -->
+    
+    <!-- Add column04 -->
+    <div class="col-sm-12 col-md-4 col-lg-3">
+      <div class="card" style="width: 25rem; height: 30rem;">
+        <img class="card-img-top" src="https://cdn.pixabay.com/photo/2017/08/07/16/36/cat-2605502__340.jpg" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div>
+      </div>
+    </div>
+    <!-- End Column04 -->
+    
+  </div>
+  <!-- End Row03 -->
+
+<!-- delcair Row04 -->
+<div class="row">
+    
+  <!-- Add column01 -->
+  <div class="col-sm-12 col-md-4 col-lg-3">
+    <div class="card" style="width: 25rem; height: 30rem;">
+      <img class="card-img-top" src="https://cdn.pixabay.com/photo/2019/06/12/15/07/cat-4269479__340.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+    </div>
+  </div>
+  <!-- End Column01 -->
+
+  <!-- Add column02 -->
+  <div class="col-sm-12 col-md-4 col-lg-3">
+    <div class="card" style="width: 25rem; height: 30rem;">
+      <img class="card-img-top" src="https://cdn.pixabay.com/photo/2016/11/18/21/57/animal-1837067__340.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+    </div>
+  </div>
+  <!-- End Column02 -->
+
+  <!-- Add Column03 -->
+  <div class="col-sm-12 col-md-4 col-lg-3">
+    <div class="card" style="width: 25rem; height: 30rem;">
+      <img class="card-img-top" src="https://cdn.pixabay.com/photo/2019/04/02/16/11/cat-4098058__340.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+    </div>
+  </div>
+  <!-- End Column03 -->
+  
+  <!-- Add column04 -->
+  <div class="col-sm-12 col-md-4 col-lg-3">
+    <div class="card" style="width: 25rem; height: 30rem;">
+      <img class="card-img-top" src="https://cdn.pixabay.com/photo/2021/12/01/18/17/cat-6838844__340.jpg" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+    </div>
+  </div>
+  <!-- End Column04 -->
+  
+</div>
+<!-- End Row04 -->
+
 </div>
 <!-- End Container -->
 
